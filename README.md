@@ -14,24 +14,26 @@ This unofficial patch of RTWC v1.2 brings:
 
 ## Recommend settings
 The recommended sliders are:
-User / CPU
-Sprint: 37/37
-Acceleration: 47/47
-Shot Error: 50/55
-Pass Error: 50/55
-Shot Speed: 47/47
-Pass Speed: 38/38
-Injury Frequency: 85/85
-Injury Severity: 35/35
-Goalkeeper Ability: 55/55
-Marking: 60/60
-Run Frequency: 32/32
-Line Height: 55/55
-Line Length: 50/50
-Line Width: 50/50
-Fullbacks: 47/47
-First Touch 70/70
-Power Bar(User) 50
+
+    User / CPU
+    Sprint: 37/37
+    Acceleration: 47/47
+    Shot Error: 50/55
+    Pass Error: 50/55
+    Shot Speed: 47/47
+    Pass Speed: 38/38
+    Injury Frequency: 85/85
+    Injury Severity: 35/35
+    Goalkeeper Ability: 55/55
+    Marking: 60/60
+    Run Frequency: 32/32
+    Line Height: 55/55
+    Line Length: 50/50
+    Line Width: 50/50
+    Fullbacks: 47/47
+    First Touch 70/70
+    Power Bar(User) 50
+  
 
 ## Credits
 - The amazing creators of the best football game mod ever created :) RTWC 2014 ! http://www.soccergaming.com/forums/showthread.php?t=183903
